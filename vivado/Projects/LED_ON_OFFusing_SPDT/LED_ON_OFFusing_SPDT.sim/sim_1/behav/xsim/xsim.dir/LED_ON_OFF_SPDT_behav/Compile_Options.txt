@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "LED_ON_OFF_SPDT_behav" "xil_defaultlib.LED_ON_OFF_SPDT" -log "elaborate.log" 

@@ -1,0 +1,7 @@
+Running: xsim.dir/LED_ON_OFF_SPDT_behav/xsimk -simmode gui -wdb LED_ON_OFF_SPDT_behav.wdb -simrunnum 0 -socket 38263
+Design successfully loaded
+Design Loading Memory Usage: 20516 KB (Peak: 20516 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 105288 KB (Peak: 159784 KB)
+Simulation CPU Usage: 150 ms

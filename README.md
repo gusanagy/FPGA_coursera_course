@@ -9,9 +9,11 @@ Docker Hub - xilinx-vivado
 
 You can pull the Docker image using the following command:
 
-´´´
+```
+
 docker pull seu_usuario/xilinx-vivado:2024.1-x11
-´´´
+
+```
 Look at my page in docker hub for more instructions.
 
 OBS: The docker image needs to set the locale to en_US.UTF-8 and need to install gcc. Also you need a license to use the image. 
